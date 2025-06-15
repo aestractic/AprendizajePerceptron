@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# C++
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.class
+*.a
+*.lib
+*.pdb
+*.ilk
+
+# Archivos específicos del proyecto
+Perceptron  # Archivo ejecutable compilado
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos temporales
+*.log
+*.tmp
+*~ 
